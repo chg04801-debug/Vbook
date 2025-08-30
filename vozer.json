@@ -1,4 +1,5 @@
-{
+[
+  {
     "name": "Vozer",
     "author": "Nhocconsr",
     "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vozer/plugin.zip",
@@ -8,4 +9,5 @@
     "description": "Đọc truyện trên trang vozer.top",
     "type": "novel",
     "locale": "vi_VN"
-}
+  }
+]
