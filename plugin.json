@@ -1,9 +1,19 @@
 {
-  "name": "Vozer",
-  "author": "Custom",
-  "version": 1,
-  "description": "Plugin đọc và tải truyện từ vozer.top",
-  "url": "https://vozer.top",
-  "type": "novel",
-  "locale": "vi_VN"
+  "metadata": {
+    "author": "chg04801-debug",
+    "description": "Nguồn riêng cho Vozer.top"
+  },
+  "data": [
+    {
+      "name": "Vozer (vozer.top)",
+      "author": "Nhocconsr",
+      "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vozer/plugin.zip",
+      "version": 6,
+      "source": "https://vozer.top",
+      "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vozer/icon.png",
+      "description": "Đọc truyện trên vozer.top",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
 }
